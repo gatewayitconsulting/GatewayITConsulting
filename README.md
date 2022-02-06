@@ -59,9 +59,9 @@ I also own a small IT company, Gateway IT Consulting, where I help smaller busin
 
 ## GitHub Stats
 
-[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=gatewayitconsulting&show_icons=true&theme=tokyonight)](https://github.com/gatewayitconsulting/github-readme-stats)
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=gatewayitconsulting&show_icons=true&theme=tokyonight)
 
-[![John's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gatewayitconsulting&layout=compact&theme=tokyonight)](https://github.com/gatewayitconsulting/github-readme-stats)
+![John's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gatewayitconsulting&layout=compact&theme=tokyonight)
 
 ## GitHub README Resources
 
