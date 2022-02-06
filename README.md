@@ -51,6 +51,7 @@ I also own a small IT company, Gateway IT Consulting, where I help smaller busin
 - Front-end frameworks
 
 ## ⚡ Fun fact:
+
 - I LOVE coffee! From the science and art behind single-origin and pourovers to the caffeine content and flavour optimization in a kcup. I would love to collaborate on a coffee API or application.
 
 ## 📫 How to reach me:
@@ -58,9 +59,11 @@ I also own a small IT company, Gateway IT Consulting, where I help smaller busin
 
 ## GitHub Stats
 
-[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=gatewayitconsulting&show_icons=true&theme=tokyonight)](https://github.com/gatewayitconsulting/github-readme-stats)
+[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=gatewayitconsulting&show_icons=true&theme=aura)](https://github.com/gatewayitconsulting/github-readme-stats)
 
-[![John's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gatewayitconsulting&layout=compact&theme=tokyonight)](https://github.com/gatewayitconsulting/github-readme-stats)
+[![John's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gatewayitconsulting&layout=compact&theme=aura)](https://github.com/gatewayitconsulting/github-readme-stats)
 
 ## GitHub README Resources
-https://codesandbox.io/s/vue-particlejs-forked-7wft3?file=/src/components/HelloWorld.vue:2498-2504
+
+- Intro Banner - https://codesandbox.io/s/vue-particlejs-forked-7wft3?file=/src/components/HelloWorld.vue:2498-2504
+- GitHub Stats - https://github.com/anuraghazra/github-readme-stats
