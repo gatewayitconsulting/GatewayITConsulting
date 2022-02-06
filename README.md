@@ -56,5 +56,11 @@ I also own a small IT company, Gateway IT Consulting, where I help smaller busin
 ## 📫 How to reach me:
 [<img src="https://img.icons8.com/color/48/000000/discord-logo.png" />](https://discord.gg/vctXymz5)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/john-montanye/)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/facebook-new.png" />](https://www.facebook.com/GatewayITConsultingLLC/)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/ms-outlook.png" />](mailto:gatewayitconsulting@outlook.com)
 
-## Github README Resources
+## GitHub Stats
+
+[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=gatewayitconsulting&show_icons=true&theme=tokyonight)](https://github.com/gatewayitconsulting/github-readme-stats)
+
+[![John's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gatewayitconsulting&layout=compact&theme=tokyonight)](https://github.com/gatewayitconsulting/github-readme-stats)
+
+## GitHub README Resources
 https://codesandbox.io/s/vue-particlejs-forked-7wft3?file=/src/components/HelloWorld.vue:2498-2504
