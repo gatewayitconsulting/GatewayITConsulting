@@ -6,7 +6,7 @@
 
 ## About me
 
-I am a software engineer currently working for New Balance. Go team NB!
+I am a Salesforce Commerce Cloud Developer currently working for Ignition Commerce.
 
 I love making beautiful user experiences whether it is for front-end consumers or business users that empower websites.
 
@@ -42,13 +42,14 @@ I also own a small IT company, Gateway IT Consulting, where I help smaller busin
 
 ## 🌱 I’m currently learning
 
-- Progressive Web Apps
 - Deepening my Salesforce SFRA knowledge
-- Advanced OOP JavaScript
+- Progressive Web Apps
+- Web3
 
 ## 👯 I’m looking to collaborate on
 
 - Front-end frameworks
+- Anything coffee or Discord related
 
 ## ⚡ Fun fact:
 
