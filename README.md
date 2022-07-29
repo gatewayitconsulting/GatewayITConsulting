@@ -56,7 +56,7 @@ I also own a small IT company, Gateway IT Consulting, where I help smaller busin
 - I LOVE coffee! From the science and art behind single-origin and pourovers to the caffeine content and flavour optimization in a kcup. I would love to collaborate on a coffee API or application.
 
 ## 📫 How to reach me:
-[<img src="https://img.icons8.com/color/48/000000/discord-logo.png" />](https://discord.gg/vctXymz5)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/john-montanye/)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/facebook-new.png" />](https://www.facebook.com/GatewayITConsultingLLC/)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/ms-outlook.png" />](mailto:gatewayitconsulting@outlook.com)
+[<img src="https://img.icons8.com/color/48/000000/discord-logo.png" />](https://discord.gg/vctXymz5)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/john-montanye/)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/facebook-new.png" />](https://www.facebook.com/GatewayITConsultingLLC/)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/ms-outlook.png" />](mailto:gatewayitconsulting@outlook.com)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/salesforce.png" />](https://trailblazer.me/id/johnmontanye) 
 
 ## GitHub Stats
 
