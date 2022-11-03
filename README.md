@@ -6,7 +6,7 @@
 
 ## About me
 
-I am a Salesforce Commerce Cloud Developer currently working for Ignition Commerce.
+I am a Salesforce Commerce Cloud Developer currently working for Citizen Watch America.
 
 I love making beautiful user experiences whether it is for front-end consumers or business users that empower websites.
 
