@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/gatewayitconsulting/gatewayitconsulting/master/johnmontanye.gif" alt="John Montanye, Software Engineer" title="John Montanye, Software Engineer"/>](https://www.jmdesigns.io/)
+[<img src="https://raw.githubusercontent.com/gatewayitconsulting/gatewayitconsulting/master/johnmontanye.gif" alt="John Montanye, Salesforce Commerce Cloud Developer" title="John Montanye, Salesforce Commerce Cloud Developer"/>](https://montanyecreative.com/)
 
 # Hi there <img src="https://raw.githubusercontent.com/gatewayitconsulting/gatewayitconsulting/master/wave.gif" width="30px">, I'm John!
 
@@ -6,11 +6,11 @@
 
 ## About me
 
-I am a Salesforce Commerce Cloud Developer currently working for Citizen Watch America.
+I am a Salesforce Commerce Cloud Developer currently working at Citizen Watch America.
 
 I love making beautiful user experiences whether it is for front-end consumers or business users that empower websites.
 
-I also own a small IT company, Gateway IT Consulting, where I help smaller businesses achieve premium quality web solutions.
+I also own a small IT company, Montanye Creative, where I help smaller businesses achieve premium quality web solutions and sell my infrared styled digital photography.
 
 ## Languages
 
@@ -37,34 +37,36 @@ I also own a small IT company, Gateway IT Consulting, where I help smaller busin
 
 ## 🔭 I’m currently working on
 
-- Improving the front-end experience of my take on neumorphism @https://www.jmdesigns.io/.
-- Creating a PWA cookbook that is optimized for iPads. (Repository coming!)
+-   Improving the front-end experience of my take on neumorphism @https://montanyecreative.com/.
+-   Enhancing and scaling my photography business website @https://montanye-creative.myshopify.com/.
+-   A coffee logging application (coming soon!).
 
 ## 🌱 I’m currently learning
 
-- Deepening my Salesforce SFRA knowledge
-- Progressive Web Apps
-- Web3
+-   Deepening my Salesforce SFRA knowledge
+-   Progressive Web Apps
+-   Web3
 
 ## 👯 I’m looking to collaborate on
 
-- Front-end frameworks
-- Anything coffee or Discord related
+-   Front-end frameworks
+-   Anything coffee or Discord related
 
 ## ⚡ Fun fact:
 
-- I LOVE coffee! From the science and art behind single-origin and pourovers to the caffeine content and flavour optimization in a kcup. I would love to collaborate on a coffee API or application.
+-   I LOVE coffee! From the science and art behind single-origin and pourovers to the caffeine content and flavour optimization in a kcup. I would love to collaborate on a coffee API or application.
 
 ## 📫 How to reach me:
-[<img src="https://img.icons8.com/color/48/000000/discord-logo.png" />](https://discord.gg/vctXymz5)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/john-montanye/)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/facebook-new.png" />](https://www.facebook.com/GatewayITConsultingLLC/)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/ms-outlook.png" />](mailto:gatewayitconsulting@outlook.com)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/salesforce.png" />](https://trailblazer.me/id/johnmontanye) 
+
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/john-montanye/) &nbsp; [<img src="https://img.icons8.com/color/48/000000/ms-outlook.png" />](mailto:montanyecreative@outlook.com) &nbsp; [<img src="https://img.icons8.com/color/48/000000/salesforce.png" />](https://trailblazer.me/id/johnmontanye)
 
 ## GitHub Stats
 
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=gatewayitconsulting&show_icons=true&theme=tokyonight)
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=montanyecreative&show_icons=true&theme=tokyonight)
 
-![John's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gatewayitconsulting&layout=compact&theme=tokyonight)
+![John's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=montanyecreative&layout=compact&theme=tokyonight)
 
 ## GitHub README Resources
 
-- Intro Banner - https://codesandbox.io/s/vue-particlejs-forked-7wft3?file=/src/components/HelloWorld.vue:2498-2504
-- GitHub Stats - https://github.com/anuraghazra/github-readme-stats
+-   Intro Banner - https://codesandbox.io/s/vue-particlejs-forked-7wft3?file=/src/components/HelloWorld.vue:2498-2504
+-   GitHub Stats - https://github.com/anuraghazra/github-readme-stats
